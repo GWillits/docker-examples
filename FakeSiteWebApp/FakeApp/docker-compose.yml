@@ -1,0 +1,42 @@
+version: '3.1'
+services:
+    site:
+        build:
+            context: .
+        image: gwillits/fakesite:firstpass
+        deploy:
+            replicas: 2
+            resources:
+              limits:
+                cpus: "0.2"
+                memory: 50M
+            restart_policy:
+                condition: on-failure
+        ports:
+            - "444:444"
+        links:
+        - auth
+        - passwordr
+    auth:
+        image: gwillits/fake-authservices:latest
+        deploy:
+            replicas: 2
+            resources:
+              limits:
+                cpus: "0.2"
+                memory: 50M
+            restart_policy:
+                condition: on-failure
+        ports:
+            - "999:80"
+    passwordr:
+        image: gwillits/fgservice:latest
+        ports:
+            - "888:80"
+        links:
+        - mailhost
+    mailhost:
+        image: mailhog/mailhog
+        ports:
+            - "8025:8025"
+            

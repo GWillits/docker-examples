@@ -1,0 +1,33 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div style="text-align:center">
+  <h1 style="font-size:4rem">
+    Welcome to {{title}}!
+  </h1>
+  <img width="96" src="assets/dockerico.png">
+</div>
+<h2 style="text-align:center;font-size:2rem">Please login to proceed </h2>
+<div id="login" style="text-align:center;font-size:2rem">
+  <p>
+    <span>User name:</span>
+    <span>
+      <input #username type="text" style="padding:.74rem;color:blue;font-size:1.4rem" />
+    </span>
+  </p>
+  <p>
+    <span>Password:</span>
+    <span>
+      <input #password type="text" style="padding:.74rem;color:blue;font-size:1.4rem" />
+    </span>
+  </p>
+  <p>
+    <span style="padding-left:10rem;">
+      <button style="color:blue;font-size:1.4rem" (click)="login(username.value,password.value)">Login</button>
+    </span>
+  </p>
+</div>
+<div id="forgotten-pasword" style="margin-top:6rem;text-align:center;font-size:1.4re">
+  <p *ngIf="loginError">
+    <span style="color:red;display:block;margin-bottom:2rem">Your username or password are not recognised:</span>
+    <button (click)="redirectToRequestPasword()">Request Reset Password ?</button>
+  </p>
+</div>
