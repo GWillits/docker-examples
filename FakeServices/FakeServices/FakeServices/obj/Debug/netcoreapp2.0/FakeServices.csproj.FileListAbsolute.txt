@@ -1,0 +1,11 @@
+C:\Projects\FakeServices\FakeServices\FakeServices\obj\Debug\netcoreapp2.0\FakeServices.csproj.CoreCompileInputs.cache
+C:\Projects\FakeServices\FakeServices\FakeServices\obj\Debug\netcoreapp2.0\FakeServices.AssemblyInfoInputs.cache
+C:\Projects\FakeServices\FakeServices\FakeServices\obj\Debug\netcoreapp2.0\FakeServices.AssemblyInfo.cs
+C:\Projects\FakeServices\FakeServices\FakeServices\bin\Debug\netcoreapp2.0\FakeServices.deps.json
+C:\Projects\FakeServices\FakeServices\FakeServices\bin\Debug\netcoreapp2.0\FakeServices.runtimeconfig.json
+C:\Projects\FakeServices\FakeServices\FakeServices\bin\Debug\netcoreapp2.0\FakeServices.runtimeconfig.dev.json
+C:\Projects\FakeServices\FakeServices\FakeServices\bin\Debug\netcoreapp2.0\FakeServices.dll
+C:\Projects\FakeServices\FakeServices\FakeServices\bin\Debug\netcoreapp2.0\FakeServices.pdb
+C:\Projects\FakeServices\FakeServices\FakeServices\obj\Debug\netcoreapp2.0\FakeServices.dll
+C:\Projects\FakeServices\FakeServices\FakeServices\obj\Debug\netcoreapp2.0\FakeServices.pdb
+C:\Projects\FakeServices\FakeServices\FakeServices\obj\Debug\netcoreapp2.0\FakeServices.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Projects\FakeServices\FakeServices\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache

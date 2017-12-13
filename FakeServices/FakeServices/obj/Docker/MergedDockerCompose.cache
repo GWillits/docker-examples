@@ -1,0 +1,11 @@
+services:
+  fakeservices:
+    build:
+      context: C:\Projects\FakeServices\FakeServices
+      dockerfile: FakeServices/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: fakeservices
+    ports:
+    - 80/tcp
+version: '3.0'

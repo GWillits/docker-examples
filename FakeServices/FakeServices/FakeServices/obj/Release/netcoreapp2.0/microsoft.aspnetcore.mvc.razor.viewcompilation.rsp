@@ -1,0 +1,5 @@
+C:\Projects\FakeServices\FakeServices\FakeServices
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=FakeServices
+--content-root=C:\Projects\FakeServices\FakeServices\FakeServices
+--file=
