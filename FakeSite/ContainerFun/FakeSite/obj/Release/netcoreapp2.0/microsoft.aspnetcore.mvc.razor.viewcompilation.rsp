@@ -1,0 +1,5 @@
+C:\Projects\FakeSite\ContainerFun\FakeSite
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=FakeSite
+--content-root=C:\Projects\FakeSite\ContainerFun\FakeSite
+--file=

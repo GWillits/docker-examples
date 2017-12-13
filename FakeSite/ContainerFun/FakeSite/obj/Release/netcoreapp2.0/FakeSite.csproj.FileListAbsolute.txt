@@ -1,0 +1,11 @@
+C:\Projects\FakeSite\ContainerFun\FakeSite\obj\Release\netcoreapp2.0\FakeSite.csprojResolveAssemblyReference.cache
+C:\Projects\FakeSite\ContainerFun\FakeSite\obj\Release\netcoreapp2.0\FakeSite.csproj.CoreCompileInputs.cache
+C:\Projects\FakeSite\ContainerFun\FakeSite\obj\Release\netcoreapp2.0\FakeSite.AssemblyInfoInputs.cache
+C:\Projects\FakeSite\ContainerFun\FakeSite\obj\Release\netcoreapp2.0\FakeSite.AssemblyInfo.cs
+C:\Projects\FakeSite\ContainerFun\FakeSite\obj\Release\netcoreapp2.0\FakeSite.dll
+C:\Projects\FakeSite\ContainerFun\FakeSite\bin\Release\netcoreapp2.0\FakeSite.deps.json
+C:\Projects\FakeSite\ContainerFun\FakeSite\bin\Release\netcoreapp2.0\FakeSite.runtimeconfig.json
+C:\Projects\FakeSite\ContainerFun\FakeSite\bin\Release\netcoreapp2.0\FakeSite.runtimeconfig.dev.json
+C:\Projects\FakeSite\ContainerFun\FakeSite\bin\Release\netcoreapp2.0\FakeSite.dll
+C:\Projects\FakeSite\ContainerFun\FakeSite\bin\Release\netcoreapp2.0\FakeSite.pdb
+C:\Projects\FakeSite\ContainerFun\FakeSite\obj\Release\netcoreapp2.0\FakeSite.pdb

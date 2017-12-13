@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  fakesite:
+    image: fakesite
+    build:
+      context: ./FakeSite
+      dockerfile: Dockerfile
